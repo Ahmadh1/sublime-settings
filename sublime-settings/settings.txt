@@ -26,3 +26,8 @@
     "word_wrap": true,
     "wrap_width": 80
 }
+// Keybindings
+[
+    { "keys": ["ctrl+alt+enter"], "command": "expand_fqcn" },
+    { "keys": ["f6"], "command": "find_use" },
+]
