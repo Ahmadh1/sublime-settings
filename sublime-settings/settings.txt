@@ -1,89 +1,28 @@
 {
 	"always_show_minimap_viewport": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-	"font_face": "Hack",
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 8,
+	"caret_style": "phase",
+	//"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"font_face": "Dank Mono",
 	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"caret_style": "phase",
-	"caret_extra_bottom": 0,
-	"caret_extra_top": 0,
-	"caret_extra_width": 6,
-	"line_padding_bottom": 5,
-	"line_padding_top": 10,
-	"line_padding_bottom": 10,
-	"line_padding_top": 10,
-	"theme": "Material-Theme-Darker.sublime-theme"
-}
-
-// new
-
-{
-	"always_show_minimap_viewport": true,
-	"caret_extra_bottom": 0,
-	"caret_extra_top": 0,
-	"caret_extra_width": 8,
-	"caret_style": "phase",
-	"color_scheme": "Monokai Pro.sublime-color-scheme",
-	"font_face": "Dank Mono",
-	"font_size": 16,
-	"highlight_line": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
 	"line_padding_bottom": 12,
 	"line_padding_top": 12,
-	"material_theme_accent_purple": true,
-	"material_theme_accent_scrollbars": true,
-	"material_theme_accent_titlebar": true,
-	"material_theme_bullet_tree_indicator": true,
-	"material_theme_contrast_mode": true,
-	"material_theme_disable_folder_animation": true,
-	"material_theme_small_statusbar": true,
-	"material_theme_tabs_separator": true,
-	"material_theme_titlebar": true,
-	"material_theme_tree_headings": true,
-	"theme": "Monokai Pro.sublime-theme",
-	"monokai_pro_sidebar_row_padding": 8,
-	"monokai_pro_sidebar_font_size": 15,
-	"monokai_pro_label_font_size": 15,
-	"monokai_pro_highlight_open_folders": true
-}
-// before updating
-{
-	"always_show_minimap_viewport": true,
-	"caret_extra_bottom": 0,
-	"caret_extra_top": 0,
-	"caret_extra_width": 8,
-	"caret_style": "phase",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
-	"font_face": "dank Mono",
-	"font_size": 17,
-	"highlight_line": true,
-	"ignored_packages":
-	[
-		"sublime-react",
-		"Vintage"
-	],
-	"line_padding_bottom": 12,
-	"line_padding_top": 12,
-	"material_theme_accent_bright-teal": true,
-	"material_theme_accent_scrollbars": true,
-	"material_theme_accent_titlebar": true,
-	"material_theme_bullet_tree_indicator": true,
-	"material_theme_contrast_mode": true,
-	"material_theme_disable_folder_animation": true,
-	"material_theme_small_statusbar": true,
-	"material_theme_tabs_separator": true,
-	"material_theme_titlebar": true,
-	"material_theme_tree_headings": true,
-	"monokai_pro_highlight_open_folders": true,
-	"monokai_pro_label_font_size": 15,
-	"monokai_pro_sidebar_font_size": 15,
-	"monokai_pro_sidebar_row_padding": 8,
-	"theme": "Material-Theme-Palenight.sublime-theme"
+	//"material_theme_accent_acid-lime": true,
+	//"material_theme_accent_scrollbars": true,
+	//"material_theme_accent_titlebar": true,
+	//"material_theme_big_fileicons": true,
+	//"material_theme_contrast_mode": true,
+	//"material_theme_tabs_autowidth": true,
+	//"material_theme_tree_headings": true,
+	//"theme": "Material-Theme-Palenight.sublime-theme",
+	"rulers": [80, 100, 120],
+    "word_wrap": true,
+    "wrap_width": 80
 }
